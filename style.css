@@ -167,7 +167,7 @@ main{
 
 .resultados div > strong{
   color: var(--light-green);
-  font-size: 2rem;
+  font-size: 3rem;
 }
 
 .resultados.gorjeta-total{
